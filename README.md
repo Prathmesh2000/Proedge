@@ -16,9 +16,9 @@
 ## Components -
 ### Frontend -
 In APP.jsx 
-![](Screenshots/4.JPG)
-useState is used, on click of button the input form value is assigned to input value and if it is not empty string the backend api is called and the result JSON formatted data is stored in data.
 ![](Screenshots/5.JPG)
+useState is used, on click of button the input form value is assigned to input value and if it is not empty string the backend api is called and the result JSON formatted data is stored in data.
+![](Screenshots/4.JPG)
 Input form, button is rendered and table is rendered from data using map. 
 ### Backend -
 ![](Screenshots/2.JPG)
